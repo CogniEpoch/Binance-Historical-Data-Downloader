@@ -1,6 +1,14 @@
 # Binance Historical Data Downloader
 
-This Python script allows you to download historical data for the BTC-USDT trading pair from Binance at different time frames.
+
+This Python script allows you to download historical data for any cryptocurrency (for example: BTC-USDT) trading pair from Binance at different time frames.
+
+## Usage
+
+1. Clone the repository to your local machine:
+   ```bash
+   git clone https://github.com/CogniEpoch/Binance-Historical-Data-Downloader.git
+
 
 ## Usage
 
@@ -42,6 +50,9 @@ This Python script allows you to download historical data for the BTC-USDT tradi
 > Ensure that you have a stable internet connection.
 > 
 > The script downloads data at the specified time frame for each day in the specified date range.
+
+> [!TIP]
+> You can change the BTC-USDT to your favored coin, and if available, it will download.
 
 > [!CAUTION]
 >  # Disclaimer
