@@ -52,7 +52,7 @@ This Python script allows you to download historical data for any cryptocurrency
 > The script downloads data at the specified time frame for each day in the specified date range.
 
 > [!TIP]
-> You can change the BTC-USDT to your favored coin, and if available, it will download.
+> You can change the BTCUSDT to your favored coin with correct format from offical website, and if available, it will download.
 
 > [!CAUTION]
 >  # Disclaimer
